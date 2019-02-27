@@ -10,7 +10,7 @@ public class Exercise_27_01 {
 		// Create a map
 		MyMap<String, Integer> map = new MyHashMap<>();
 		map.put("Smith", 30);
-	   map.put("Anderson", 31);
+	   	map.put("Anderson", 31);
 		map.put("Lewis", 29);
 		map.put("Cook", 29);
 		map.put("Tom", 21);
